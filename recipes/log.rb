@@ -1,1 +1,1 @@
-log "This is a test"
+log "This is a test for dependency"
